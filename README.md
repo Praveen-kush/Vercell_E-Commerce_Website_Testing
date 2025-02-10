@@ -1,49 +1,19 @@
-# StyleMate Online Store - QA Project
+# StyleMate Online Store - Testing Project
 
-Project Overview
+*Project Overview
 
-StyleMate is an e-commerce web application that provides users with a seamless online shopping experience. This project focuses on ensuring the quality and reliability of the application through comprehensive manual and automation testing.
+StyleMate is an e-commerce platform that provides a seamless shopping experience for users. This project focuses on ensuring the quality and reliability of the application through comprehensive manual and automated testing.
 
-Team Members
+![image](https://github.com/user-attachments/assets/f2c97551-acfb-47d2-bf3f-0d093faa463f)
 
-Rohit Kumar Tamta - Manual Testing
+*Tech Stack
 
-Praveen - Automation Testing (Selenium, TestNG, POM, Cucumber)
+Manual Testing: Google Sheets, Google Docs
 
-Testing Approach
+Automation: Selenium, TestNG, POM, Cucumber
 
-1. Manual Testing
+Tools Used: Eclipse IDE, GitHub
 
-Conducted extensive manual testing to identify bugs, ensure functionality, and validate UI/UX.
+*Note: This project was done as part of an SDET certification program at Masai.
 
-Test Case Design
 
-Functional Testing
-
-UI Testing
-
-Regression Testing
-
-Bug Reporting
-
-2. Automation Testing
-
-Automated the test cases using Selenium with TestNG, POM, and Cucumber for efficient and reliable test execution.
-
-Selenium WebDriver for browser automation
-
-Page Object Model (POM) for structured test design
-
-TestNG for test execution and reporting
-
-Cucumber for BDD-style test scenarios
-
-Tools & Technologies Used
-
-Manual Testing: Test Case Management, Bug Tracking
-
-Automation Testing: Selenium WebDriver, TestNG, POM, Cucumber
-
-Programming Language: Java
-
-Framework: Hybrid Test Automation Framework
